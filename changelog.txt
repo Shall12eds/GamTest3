@@ -1,0 +1,4 @@
+mais raridades e 3 comandos novos
+rarity
+rarity+ (porcentagem de cada raridade)
+stats (status do jogador)
